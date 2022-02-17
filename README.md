@@ -43,3 +43,5 @@ allocations:     39
 allocated bytes: 6568188
 0x
 ```
+
+Note: this contract is also deployed to the Aurora testnet at address `0x5eC9632722cb5Ea77cBE05951483651c6a31D35B`.
